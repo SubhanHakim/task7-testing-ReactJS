@@ -1,4 +1,4 @@
-import Gallery from "./Gallery"
+import GalleryDetail from "./Gallery"
 
 const SectionProjects = () => {
     return (
@@ -11,7 +11,7 @@ const SectionProjects = () => {
                     </div>
 
                     <div>
-                        <Gallery />
+                        <GalleryDetail />
                     </div>
                 </div>
             </div>

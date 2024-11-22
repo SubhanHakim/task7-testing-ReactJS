@@ -24,13 +24,13 @@ const DetailAbout = () => {
                                 <span className="font-works font-normal text-2xl text-textsecondary">Years Experience</span>
                             </div>
                             <div className="bg-[#FAFAFA] w-full p-4 rounded-lg">
-                                <h2 className="font-works font-bold text-4xl text-textBlack">1</h2>
-                                <span className="font-works font-normal text-2xl text-textsecondary">Years Experience</span>
+                                <h2 className="font-works font-bold text-4xl text-textBlack">15+</h2>
+                                <span className="font-works font-normal text-2xl text-textsecondary">Project</span>
                             </div>
                         </div>
                         <div className="flex justify-between gap-2 ">
                             <div className="bg-[#FAFAFA] w-full p-4 rounded-lg">
-                                <h2 className="font-works font-bold text-4xl text-textBlack">1</h2>
+                                <h2 className="font-works font-bold text-4xl text-textBlack">3</h2>
                                 <span className="font-works font-normal text-2xl text-textsecondary">Years Experience</span>
                             </div>
                             <div className="bg-[#FAFAFA] w-full p-4 rounded-lg">

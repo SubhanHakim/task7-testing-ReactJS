@@ -1,6 +1,8 @@
+import GalleryDetail from "../../components/sections/Projects/Gallery"
+
 const Gallery = () => {
     return (
-        <div>Gallery</div>
+        <GalleryDetail />
     )
 }
 

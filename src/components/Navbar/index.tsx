@@ -9,7 +9,7 @@ const Navbar = () => {
                 <div className="flex gap-10 font-works font-semibold ">
                     <NavLink to={"/"} className={"text-lg font-semibold text-textsecondary"}>Home</NavLink>
                     <NavLink to={"/about"} className={"text-lg font-semibold text-textsecondary"}>About Me</NavLink>
-                    <NavLink to={"/vlog"} className={"text-lg font-semibold text-textsecondary"}>Blog</NavLink>
+                    <NavLink to={"/gallery"} className={"text-lg font-semibold text-textsecondary"}>Gallery</NavLink>
                     <NavLink to={"/contact"} className={"text-lg font-semibold text-textsecondary"}>Contact Me</NavLink>
                 </div>
                 <div>

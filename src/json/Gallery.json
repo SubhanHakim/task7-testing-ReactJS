@@ -2,19 +2,37 @@
   {
     "id": 1,
     "title": "Project 1",
-    "image": "https://via.placeholder.com/150",
+    "image": "/images/gallery1.png",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
   },
   {
     "id": 2,
     "title": "Project 2",
-    "image": "https://via.placeholder.com/150",
+    "image": "/images/gallery2.png",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
   },
   {
     "id": 3,
     "title": "Project 3",
-    "image": "https://via.placeholder.com/150",
+    "image": "/images/gallery3.png",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 4,
+    "title": "Project 4",
+    "image": "/images/gallery4.png",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 5,
+    "title": "Project 5",
+    "image": "/images/gallery5.png",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 6,
+    "title": "Project 6",
+    "image": "/images/gallery5.png",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
   }
 ]
