@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "star": 5,
+    "name": "Raka Pratama",
+    "job": "Software Engineer",
+    "comment": "Subhan emang jagonya! Software yang dia bikin nggak cuma sesuai kebutuhan, tapi juga rapi, cepat, dan fungsional. Pokoknya, kerjaannya profesional banget dan hasilnya top-tier. Highly recommended!",
+    "image" : "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+  },
+  {
+    "id": 2,
+    "star": 4,
+    "name": "Nia Lestari",
+    "job": "Product Manager",
+    "comment": "Sebagai seorang Product Manager, saya sangat puas dengan hasil kerja Subhan. Software yang dia kembangkan benar-benar sesuai dengan kebutuhan tim kami—fungsional, efisien, dan mudah digunakan. Kerja sama dengannya sangat profesional dan tepat waktu. Highly recommended!",
+    "image" : "https://images.unsplash.com/photo-1521747116042-5a810fda9664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400"
+  },
+  {
+    "id": 3,
+    "star": 5,
+    "name": "Subhan Hakim",
+    "job": "UI/UX Designer",
+    "comment": "Lorem ipsum dolor sit amet consectetur. Nibh porttitor aliquet tellus eget egestas. Enim ultrices dictumst tortor in eget neque vestibulum potenti tempus",
+    "image" : "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+  }
+]
