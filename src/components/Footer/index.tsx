@@ -1,5 +1,5 @@
-import { BsGithub } from "react-icons/bs"
-import { FaFacebook, FaLinkedin, } from "react-icons/fa6"
+import { BsGithub } from "react-icons/bs";
+import { FaFacebook, FaLinkedin } from "react-icons/fa6";
 
 const Footer = () => {
     return (
@@ -12,20 +12,20 @@ const Footer = () => {
                 <div className="flex gap-4 items-center">
                     <h4 className="text-2xl font-bold text-white">Follow Us :</h4>
                     <div className="flex items-center gap-3">
-                        <a href="" className="text-2xl text-white">
+                        <a href="" className="text-2xl text-white" data-testid="facebook-icon">
                             <FaFacebook />
                         </a>
-                        <a href="" className="text-2xl text-white">
+                        <a href="" className="text-2xl text-white" data-testid="github-icon">
                             <BsGithub />
                         </a>
-                        <a href="" className="text-2xl text-white">
+                        <a href="" className="text-2xl text-white" data-testid="linkedin-icon">
                             <FaLinkedin />
                         </a>
                     </div>
                 </div>
             </div>
         </footer>
-    )
-}
+    );
+};
 
-export default Footer
+export default Footer;

@@ -1,8 +1,7 @@
 interface IButtonProps {
     progress: number;
-    title: string
+    title: string;
 }
-
 
 const Progress = ({ progress, title }: IButtonProps) => {
     return (
@@ -12,10 +11,14 @@ const Progress = ({ progress, title }: IButtonProps) => {
                 <span className="text-sm font-medium text-blue-700 dark:text-textsecondary">{progress}</span>
             </div>
             <div className="w-full bg-[#EEEEEE] rounded-full h-4 dark:bg-[#EEEEEE] ">
-                <div className="bg-blue-600 h-4 rounded-full" style={{ width: `${progress}%` }}></div>
+                <div
+                    className="bg-blue-600 h-4 rounded-full"
+                    style={{ width: `${progress}%` }}
+                    data-testid="progress-bar"
+                ></div>
             </div>
         </>
-    )
-}
+    );
+};
 
-export default Progress
+export default Progress;
